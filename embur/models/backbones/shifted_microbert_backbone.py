@@ -1,4 +1,3 @@
-
 # File: embur/models/backbones/shifted_microbert_backbone.py
 
 import math
